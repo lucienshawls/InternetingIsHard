@@ -1,0 +1,49 @@
+body {
+    /* color: #FF0000; */
+    color: #414141;
+    background-color: #EEEEEE;
+    font-size: 18px;
+}
+
+h1 {
+    /* font-size: 36px; */
+    font-size: 2em;
+}
+
+h2 {
+    /* font-size: 28px; */
+    font-size: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", "Arial", sans-serif;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+a {
+    text-decoration: none;
+    /* text-decoration: line-through; */
+}
+
+p {
+    text-align: left;
+}
+
+/* swap
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+strong {
+    font-weight: normal;
+    font-style: italic;
+} */
